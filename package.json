@@ -1,0 +1,23 @@
+{
+  "name": "pixelgame",
+  "version": "0.0.0",
+  "description": "A very small pixel game.",
+  "main": "game.js",
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "express": "3.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/dirkk0/pixelgame"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dirkk0/pixelgame/issues"
+  }
+}
